@@ -1,6 +1,6 @@
 using Nancy
 
-namespace MyApp
+namespace Dealership
 {
   public class HomeModule : NancyModule
   {
